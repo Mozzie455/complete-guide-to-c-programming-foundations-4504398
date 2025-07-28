@@ -14,7 +14,7 @@ int main()
 	printf("Type a small value: ");
 	scanf("%f",&f);
 	printf("Type a huge value: ");
-	double d;
+	// double d;
 	scanf("%lg",&d);
 
 	/* output */
